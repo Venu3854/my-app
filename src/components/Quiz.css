@@ -1,0 +1,10 @@
+.container {
+  padding-left: 20%;
+  margin: 50px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
